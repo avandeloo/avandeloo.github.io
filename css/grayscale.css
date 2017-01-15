@@ -90,7 +90,7 @@ a:focus {
 .navbar-custom .nav li a:focus,
 .navbar-custom .nav li a:active {
   outline: none;
-  background-color: transparent;
+  background-color: black;
 }
 .navbar-custom .nav li.active {
   outline: none;
@@ -125,7 +125,7 @@ a:focus {
   text-align: center;
   color: white;
   background: url(../img/downloads-bg.jpg) no-repeat bottom center scroll;
-  background-color: white;
+  background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
